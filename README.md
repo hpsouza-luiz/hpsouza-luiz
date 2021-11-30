@@ -2,9 +2,9 @@
 
 ## Opa, beleza!? 👋
 Sou fissurado em resolver problemas, utilizando a programação para me auxiliar nessa jornada infinita.
-Estou estudando Desenvolvimento Web incansavelmente, todos os dias!
+Estou estudando Desenvolvimento de Sistemas incansavelmente, todos os dias!
 
- :pill:  &nbsp; Estou trabalhando na **Valuenet** como Desenvolvedor Júnior
+ :pill:  &nbsp; Estou trabalhando na **OLX Brasil** como Salesforce Enginner
  <br/> :books: &nbsp; Estou cursando Análise e Desenvolvimento de Sistemas na FAEL
  <br/> :blush: &nbsp; Posso te ajudar com Salesforce! 
  <br/> :guitar:  &nbsp; Sobre mim: Gosto muito de tudo o que envolve tecnologia e música. Sei tocar alguns instrumentos de corda!
