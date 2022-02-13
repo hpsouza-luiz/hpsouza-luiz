@@ -24,7 +24,7 @@ I'm studying Systems Development tirelessly, every single day! 🤓
 ## Statistics
 <div>
 <a href="https://github.com/hpsouza-luiz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpsouza-luiz&layout=compact&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpsouza-luiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpsouza-luiz&layout=compact&theme=dracula"/>&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpsouza-luiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/hpsouza-luiz/hpsouza-luiz/blob/output/github-contribution-grid-snake.svg)
