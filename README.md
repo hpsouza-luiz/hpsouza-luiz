@@ -11,5 +11,3 @@ Estou estudando Desenvolvimento de Sistemas incansavelmente, todos os dias!
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuizSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-souza-a1244a113/)](https://www.linkedin.com/in/lusouza42/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-hpsouza.luiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hpsouza.luiz@gmail.com)](mailto:hpsouza.luiz@gmail.com)
-
-```
