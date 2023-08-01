@@ -6,7 +6,6 @@ I am obsessed with solving problems, using programming to help me on this infini
 I'm studying Systems Development tirelessly, every single day! 🤓
 
  💙 &nbsp; I'm working at **OSF Digital** as a Salesforce Developer
- <br/> 💻 &nbsp; I am studying Systems Analysis and Development at UNIFAEL
  <br/> ☁️ &nbsp; I can help you with Salesforce!
  <br/> 🎸  &nbsp; I really like everything that involves technology and music. I can play some string instruments!
  
